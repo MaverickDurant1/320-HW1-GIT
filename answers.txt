@@ -1,4 +1,3 @@
+Q4: What skills do you hope to improve during this course?
 
-Q3: What is the difference between merging and rebasing?
-
-Answer: [I think merging saves  the entire history of your repository while rebasing moves your  feature branch onto the tip of main]
+Answer: [I hope to get a much better understanding in analyzing data as thats one of the fields i wish to pursue after school]
