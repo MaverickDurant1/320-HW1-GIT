@@ -2,3 +2,6 @@ Q1: Why might be consider using git?
 
 Answer: [well git lets  us catch errors before pushing and comminting, so it makes coding easier]
 
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: [A field is sports analytics, for example football, theres differentt plays that can be used on different distances to a first down and data science can help us determine which plays have thee betteer probablity at that certain time]
