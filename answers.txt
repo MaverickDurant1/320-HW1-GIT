@@ -1,3 +1,3 @@
-Q4: What skills do you hope to improve during this course?
+Q1: Why might be consider using git?
 
-Answer: [I hope to get a much better understanding in analyzing data as thats one of the fields i wish to pursue after school]
+Answer: [Its good to pick up on errors when pushing to git hub]
