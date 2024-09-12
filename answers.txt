@@ -8,4 +8,9 @@ Answer: [Data science  could be used at the FDA when they conduct studies and ex
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: [I belive merging combines changes from one branch into another, creating a new merge commit in the process, while rebasing moves changes from one branch to another,  rewriting the commit history of the rebased branch]
+Answer: [I belive merging combines changes from one branch into another, creating a new merge commit in the process, while rebasing moves changes from 
+one branch to another, rewriting the commit history of the rebased branch] 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: [I hope to improve on reading and understanding data so it helps me with analytics, that is a field I wish to pursue after school]
