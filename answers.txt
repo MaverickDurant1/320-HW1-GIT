@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: [Its good to pick up on errors when pushing to git hub]
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: [Data science  could be used at the FDA when they conduct studies and experiments on certain foods, getting anaytics on how some foods react to other things can help us determine if the food is safe to  eat]
