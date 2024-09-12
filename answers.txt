@@ -1,3 +1,3 @@
-Q4: What skills do you hope to improve during this course?
+Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: [I hope to get a much better understanding in analyzing data as thats one of the fields i wish to pursue after school]
+Answer: [Data science  could be used at the FDA when they conduct studies and experiments on certain foods, getting anaytics on how some foods react to other things can help us determine if the food is safe to  eat]
